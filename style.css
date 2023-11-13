@@ -1,0 +1,28 @@
+body{
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+#header h1{
+    padding-top: 40px;
+    font-size: 40px;
+}
+
+#header h2{
+    font-weight: 300;
+    margin-bottom: 20px;
+}
+
+p{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+    
+}
+
+#quote{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
