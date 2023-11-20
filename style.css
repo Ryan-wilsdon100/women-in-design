@@ -3,30 +3,213 @@ html{
 }
 
 body{
-    margin-left: 60px;
-    margin-right: 60px;
+    border-radius: 0%;
+    background-color: #f7f7f7;
+    margin: 0%;
+    margin-top: 0%;
+    
+}
+
+#header{
+    background-image: url(images/Rectangle\ 100.jpg);
+    height: 80vh;
+    width: 100%;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #00384B;
 }
 
 #header h1{
-    padding-top: 40px;
-    font-size: 40px;
+   
+    font-size: 32px;
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 100px;
+    padding-top: 160px;
+    color: #ffffff;
 }
 
 #header h2{
     font-weight: 300;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
+    padding-left: 100px;
+    font-family: 'Poppins';
+    font-size: 20px;
+    color: #ffffff;
 }
 
-p{
+
+
+
+
+nav{
+    width: 100%;
+    height: 0%;
+    margin: 0 ;
+    display: flex;
+    
+    float: left;
+    
+  }
+
+  li {
+    display: inline-block;
+    margin: 0 0px;
+  }
+  
+  li a{
+    color: #ffffff;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 30px;
+    margin-left: 30px;
+    padding-bottom: 50px;
+  }
+
+ 
+
+  #para{
+    background-color: #00384B;
+    height: 30vh;
+    max-height: fit-content;
+  }
+
+  #para i{
     text-align: center;
-    padding-top: 40px;
+  }
+
+  #para p{
+    padding-left: 100px;
+    font-family: 'Poppins', sans-serif;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 300;
+    
+  }
+
+  
+
+  #Fried{
+    max-height: fit-content;
+    background-color: #00384B;
+  }
+
+  #Fried h2{
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 0px;
+    padding-bottom: 25px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    color: #ffffff;
+  }
+
+  #Fried p{
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: 'Poppins', sans-serif;
+    color: #ffffff;
+    line-height: 1.8;
+    font-size: 13px;
+    font-weight: 300;
+    padding-bottom: 50px;
+  }
+
+  #Scher{
+    background-color: #f7f7f7;
+   
+  } 
+
+  #Scher h2{
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 25px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    color: #232323;
+  }
+
+  #Scher p{
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: 'Poppins', sans-serif;
+    color: #232323;
+    line-height: 1.8;
+    font-size: 13px;
+    font-weight: 300;
+    padding-bottom: 50px;
+  }
+
+  #Scher blockquote{
+    background-color: #f7f7f7;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: #232323;
+    line-height: 1.8;
+    font-size: 13px;
+    font-weight: 400;
     padding-bottom: 40px;
-    
-    
+  }
+
+  
+
+
+  #Hische img{
+    margin-top: 0%;
+    width: 100%;
+    height: 75vh;
+  }
+
+  #Hische{
+    background-color: #40647C;
+  } 
+
+  #Hische h2{
+    margin-left: 100px;
+    padding-top: 50px;
+    padding-bottom: 25px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    color: #ffffff;
+  }
+
+  #Hische p{
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: 'Poppins', sans-serif;
+    color: #ffffff;
+    line-height: 1.8;
+    font-size: 13px;
+    font-weight: 300;
+    padding-bottom: 50px;
+  }
+  
+  hr{
+    width: 84%;
+    color: #ffffff;
+    margin-bottom: 30px;
 }
 
-#quote{
-    text-align: center;
-    padding-top: 30px;
-    padding-bottom: 30px;
+#Hische ul p{
+    margin-left: 60px;
+    margin-right: 100px;
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+
+#Hische h3{
+    margin-left: 60px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+footer{
+    background-color: #40647C;
+    margin-top: 0%;
+}
+
+footer p{
+    margin-top: 0%;
 }
