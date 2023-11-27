@@ -7,3 +7,7 @@ Creating My First Html Page
 [Version 2](https://Ryan-wilsdon100.github.io/women-in-design/index-one.html)
 *20 November 2023*
 CSS
+
+[Version 3](https://Ryan-wilsdon100.github.io/women-in-design/index-one.html)
+*27 November 2023*
+Finishing CSS
